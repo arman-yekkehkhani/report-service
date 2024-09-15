@@ -6,7 +6,6 @@ import edu.personal.report.exception.ValidationException;
 import edu.personal.report.model.Report;
 import edu.personal.report.model.User;
 import edu.personal.report.repository.ReportRepository;
-import edu.personal.report.service.crud.ReportCrudServiceImpl;
 import edu.personal.report.service.auth.AuthService;
 import edu.personal.report.service.validation.ReportValidatorService;
 import org.junit.jupiter.api.Test;

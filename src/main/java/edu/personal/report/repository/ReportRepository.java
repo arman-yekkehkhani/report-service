@@ -1,7 +1,6 @@
 package edu.personal.report.repository;
 
 import edu.personal.report.model.Report;
-import jakarta.transaction.Transactional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

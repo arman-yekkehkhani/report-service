@@ -5,7 +5,6 @@ import edu.personal.report.exception.AuthorizationException;
 import edu.personal.report.exception.EntityNotFoundException;
 import edu.personal.report.exception.ValidationException;
 import edu.personal.report.model.Report;
-import org.springframework.stereotype.Service;
 
 import java.util.UUID;
 

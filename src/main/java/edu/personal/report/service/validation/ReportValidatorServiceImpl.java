@@ -5,7 +5,6 @@ import edu.personal.report.model.Report;
 import edu.personal.report.service.validation.validator.ReportValidator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
